@@ -1,0 +1,59 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.bg-circuit{
+	background-image: url('../resources/circuitos.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+/*
+.radial-gradient{
+	background: radial-gradient(circle, #EEE, #EEE, #666) no-repeat;
+}
+*/
+
+.ss{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.rbt{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.text-center{text-align: center}
+.text-justify{text-align: justify;}
+
+.color-orange{color:#FFA500;}
+
+
+.topindex{
+	margin-top:200px;
+	min-height: 100%;
+
+}
+
+.color-chart {
+	width:0;
+	height:0;
+	border-right: 50px solid #d9534f;
+	border-top: 50px solid #428bca;
+	border-left: 50px solid #f0ad4e;
+	border-bottom: 50px solid #5cb85c;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+}
+
+.circulo {
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	background: #5cb85c;
+}
+
+.margin-bottom-10{margin-bottom: 10px;}
